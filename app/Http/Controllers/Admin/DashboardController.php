@@ -13,6 +13,6 @@ class DashboardController extends Controller
     }
 
     public function getDashboard(){
-        return view('admin.dasboard');
+        return view('admin.dashboard');
     }
 }
